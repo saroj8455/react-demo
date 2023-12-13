@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 ## Implement Error handel scenrio in react
 
-`https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react`
+`https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react` <br>
+`https://www.developerway.com/posts/how-to-handle-errors-in-react`
 
 #### Note Catch Error while component rendering (Keep in mind)
 
