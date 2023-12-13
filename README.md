@@ -17,3 +17,7 @@ Currently, two official plugins are available:
 ## React blogs
 
 `https://blog.webdevsimplified.com/2023-04/html-dialog/`
+
+### Doc for Node and express api design with proper example and coding standard
+
+`https://dev.to/franciscomendes10866/setup-mongodb-with-mongoose-and-express-4c58`
