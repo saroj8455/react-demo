@@ -12,3 +12,7 @@ Currently, two official plugins are available:
 `https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react`
 
 #### Note Catch Error while component rendering (Keep in mind)
+
+## React blogs
+
+`https://blog.webdevsimplified.com/2023-04/html-dialog/`
